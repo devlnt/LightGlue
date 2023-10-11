@@ -3,6 +3,9 @@
 /lightglue/weights/
 *-checkpoint.ipynb
 *.pth
+*.mp4
+*.jpg
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
